@@ -17,11 +17,11 @@ Scikit-learn's breast cancer dataset is a classic and very easy binary classific
 I built a simple Logistic Regression model with gradient descent to optimize parameters. My model achieves a 96% test accuracy, and the detailed performance of the model after fitting the training set is presented bellow:
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/RandomY-2/Logistic_Regression_From_Scratch/blob/main/images/model_confusion.jpg">
+  <img src="https://github.com/RandomY-2/Logistic_Regression_From_Scratch/blob/main/images/model_confusion.jpg">
 </p>
 
 The scikit-learn built-in Logistic Regression model has a test accuracy of 99%, and the detailed performance is presented below:
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/RandomY-2/Logistic_Regression_From_Scratch/blob/main/images/scikit_confusion.jpg">
+  <img src="https://github.com/RandomY-2/Logistic_Regression_From_Scratch/blob/main/images/scikit_confusion.jpg">
 </p>
