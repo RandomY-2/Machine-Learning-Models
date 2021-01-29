@@ -15,7 +15,16 @@ So My procedure in this notebook will be:
 3. Implement the Random Forest Algorithm
 4. Test my implementation with scikit-learn's random forest classifier
 
-A lot of the decision tree implementations are based on my [decision tree classifier](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/Decision_Tree). The new features in 
+A lot of the decision tree implementations are based on my [decision tree classifier](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/Decision_Tree). The new methods in this notebook are **Bootstraping** and **Random Subspacing**.
 
+### Bootstrap
 
-## Bootstrap & Random Subspace
+Bootstrap is a key component of random forest algorithm. Since we want each decision tree to be different, we will not use the entire train set to train each decision tree. In contrast, we will randomly select a subset of data from the train set for each tree. This process of randomly selecting is bootstrapping.
+
+### Random Subspace
+
+So like I previously mentioned, we don't want each decision tree to be trained using same data. So for each tree there will be a parameter to control which features can be used to partition the data.
+
+## Result
+
+To test my implementation, I used the red wine dataset and scikit-learn's RandomForestClassifier. My model obtained a **71.25%** accuracy while scikit-learn's model obtained a **74.0625%** accuracy. The final accuracy shows that our random forest classifier is pretty close to scikit-learn's random forest classifier, which would show the effectiveness of our implementation.
