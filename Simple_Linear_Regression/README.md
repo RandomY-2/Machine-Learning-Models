@@ -16,22 +16,22 @@ I built a single-variable Linear Regression model with input being the above gra
 
    **My Model**:
    <p align="left">
-     <img width="700" height="100" src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/my_parameters.jpg">
+     <img src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/my_parameters.jpg">
    </p>
    
    **Scikit-learn Model**:
    <p align="left">
-     <img width="700" height="100" src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/scikit_parameters.jpg">
+     <img src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/scikit_parameters.jpg">
    </p>
    
 - Regression Line:
 
    **My Model**:
    <p align="left">
-     <img width="600" height="300" src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/my_regression_line.jpg">
+     <img src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/my_regression_line.jpg">
    </p>
    
    **Scikit-learn Model**:
      <p align="left">
-       <img width="500" height="300" src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/scikit_regression_line.jpg">
+       <img src="https://github.com/RandomY-2/Linear_Regression_From_Scratch/blob/main/images/scikit_regression_line.jpg">
      </p>
